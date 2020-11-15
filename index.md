@@ -1,3 +1,2 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to write about various stuff
+## Hello Anonymous
+this sits in the index.md file and tend to have some more description and new blog entries
