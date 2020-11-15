@@ -1,5 +1,5 @@
 ---
-title: Welcome to ::banana:: blog
+title: Welcome to :banana: blog
 date: November 2020
 ---
 
